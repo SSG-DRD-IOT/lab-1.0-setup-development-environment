@@ -4,6 +4,19 @@
 
 The labs in the Intel Commercial IoT Workshop are organized in a progression that will result in each attendee building their own automated and secured, multi-device IoT network.
 
+### Abc
+```abc
+X:1
+T:Speed the Plough
+M:4/4
+C:Trad.
+K:G
+|:GABc dedB|dedB dedB|c2ec B2dB|c2A2 A2BA|
+GABc dedB|dedB dedB|c2ec B2dB|A2F2 G4:|
+|:g2gf gdBd|g2f2 e2d2|c2ec B2dB|c2A2 A2df|
+g2gf g2Bd|g2f2 e2d2|c2ec B2dB|A2F2 G4:|
+```
+
 Start by making sure your computer, Arduino 101*, and Intel® IoT Gateway are ready for IoT development.
 
 By the end of this module, you should be able to:
